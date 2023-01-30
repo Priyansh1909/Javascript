@@ -1,0 +1,23 @@
+li:hover{
+    cursor: pointer;
+}
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+    text-align: left;
+}
+
+body{
+    background-color:beige;
+}
+
+.container{
+    width: fit-content;
+    margin: 0 auto;
+    height: inherit;
+}
+
+h1{
+    text-align: center;
+}
